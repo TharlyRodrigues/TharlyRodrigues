@@ -13,6 +13,8 @@
   <img align="center" alt="Tharly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tharly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tharly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Tharly-gif" height="200" width="200" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
+
 </div>
  
 ## ⚙📚 Estou aprendendo
@@ -21,8 +23,10 @@
  </div>
  
 ## contatos:
+ </div>
  <div>
  <a href="https://www.linkedin.com/in/tharly-rodrigues-45abb9243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
  </div>
  
  

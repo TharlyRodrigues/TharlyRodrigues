@@ -14,6 +14,7 @@
   <img align="center" alt="Tharly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tharly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Tharly-gif" height="200" width="200" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
+  Apaixonado por tecnologia, quero mudar a vida das pessoas através da programação.
 
 </div>
  

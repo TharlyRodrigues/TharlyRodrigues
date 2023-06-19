@@ -1,8 +1,9 @@
 <div>
  <img align="right" alt="Tharly-gif" height="300" width="1200" src="https://static.wixstatic.com/media/2ef43b_cd630c0daed24ba9982fe08a388687ad~mv2.jpg/v1/fill/w_640,h_328,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/2ef43b_cd630c0daed24ba9982fe08a388687ad~mv2.jpg"
-</div>
+</div> <br>
+
  
-##Olá,Me chamo Tharly Rodrigues! 👋🏻 <br>
+<h2 style= "color:#ff0022;">Olá,Me chamo Tharly Rodrigues!👋🏻 </h2>
 👨🏻‍💻 Sou estudante de front-end!<br>👨🏻‍💼 estou à procura do meu primeiro estagio. <br>
  
 # 📊 GitHub Stats:

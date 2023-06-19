@@ -3,7 +3,7 @@
 </div> <br>
 
  
-<h2 style= "color:#ff0022;">Olá,Me chamo Tharly Rodrigues!👋🏻 </h2>
+<h2 style= "color:#ff0022;">Olá, Me chamo Tharly Rodrigues!👋🏻 </h2>
 👨🏻‍💻 Sou estudante de front-end!<br>👨🏻‍💼 estou à procura do meu primeiro estagio. <br>
  
 # 📊 GitHub Stats:

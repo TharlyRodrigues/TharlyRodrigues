@@ -1,3 +1,6 @@
+<div>
+ <img align="right" alt="Tharly-gif" height="200" width="200" src="https://camo.githubusercontent.com/682cdd957352ff1f9d3f17d7b02a25cf93d2f3ffb9a8934e20d93e3a6c5df051/68747470733a2f2f7777772e686f7374696e6765722e636f6d2e62722f7475746f72696169732f77702d636f6e74656e742f75706c6f6164732f73697465732f31322f323031392f30352f436f6d6f2d7574696c697a61722d4769742d486f6f6b732d2e706e67"
+</div>
 ## Olá,Me chamo Tharly Rodrigues! 👋🏻 <br>
 👨🏻‍💻 Sou estudante de front-end!<br>👨🏻‍💼 estou à procura do meu primeiro estagio. <br>
 # 📊 GitHub Stats:

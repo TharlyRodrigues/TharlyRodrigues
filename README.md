@@ -8,12 +8,8 @@
  
 # 📊 GitHub Stats:
 ---
-<div>
-<a href="https://github.com/Tharly">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TharlyRodrigues&show_icons=true&theme=merko&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharlyRodrigues&layout=compact&langs_count=7&theme=merko"/>
- 
-</div>
+![](https://github-readme-stats.vercel.app/api?username=TharlyRodrigues&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TharlyRodrigues&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
  <h1>🚀Skills</h1>
  

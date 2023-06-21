@@ -10,8 +10,8 @@
 ---
 <div>
 <a href="https://github.com/TharlyRodrigues">
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharlyRodrigues&layout=compact&langs_count=7&theme=dracula"/>
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=TharlyRodrigues&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharlyRodrigues&layout=compact&langs_count=7&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=TharlyRodrigues&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
 </div>
  <h1>🚀Skills</h1>
  

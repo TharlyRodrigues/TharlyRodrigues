@@ -36,10 +36,7 @@
  <a href="https://www.linkedin.com/in/tharly-rodrigues-45abb9243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
  
   Apaixonado por tecnologia, quero mudar a vida das pessoas através da programação.
- 
  </div>
- 
----
 [![](https://visitcount.itsvg.in/api?id=TharlyRodrigues&icon=0&color=12)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

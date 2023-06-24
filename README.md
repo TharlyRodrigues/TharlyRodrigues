@@ -37,7 +37,7 @@
  
   Apaixonado por tecnologia, quero mudar a vida das pessoas através da programação.
  </div>
- 
+ ---
 [![](https://visitcount.itsvg.in/api?id=TharlyRodrigues&icon=0&color=12)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

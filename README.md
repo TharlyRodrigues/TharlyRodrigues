@@ -4,7 +4,7 @@
 
  
 <h2 style= "color:#ff0022;">Olá, Me chamo Tharly Rodrigues!👋🏻 </h2>
-👨🏻‍💻 Analise e Desenvolvimento de Sistema (1ªP) !<br>👨🏻‍💼 estou à procura do meu primeiro estagio. <br> 📱contato:(86) 99524-6508
+👨🏻‍💻 Analise e Desenvolvimento de Sistema (1ªP) !<br>👨🏻‍💼 estou à procura do meu primeiro estagio. <br> 📱 contato: (86) 99524-6508
  
 # 📊 GitHub Stats:
 ---

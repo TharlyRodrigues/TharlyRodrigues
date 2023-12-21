@@ -33,7 +33,7 @@
 ## contato:
  </div>
  <div>
- <a href="https://www.linkedin.com/in/tharly-rodrigues-45abb9243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
+ <a href="https://www.linkedin.com/in/tharly-rodrigues-28b45b29a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
  
   Apaixonado por tecnologia, quero mudar a vida das pessoas através da programação.
  </div>
